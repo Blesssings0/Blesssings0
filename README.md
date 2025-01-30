@@ -4,7 +4,7 @@
 <a href="https://github.com/https://github.com/Blesssings0?tab=overview&from=2024-12-01&to=2024-12-31" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/julio-antonio-solís-b05861344" target="_blank">
+<a href="https://www.linkedin.com/in/julio-antonio-sol%C3%ADs-b05861344/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100038465280137&mibextid=ZbWKwL" target="_blank">
